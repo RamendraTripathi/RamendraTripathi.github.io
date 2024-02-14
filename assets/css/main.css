@@ -3858,7 +3858,7 @@ input, select, textarea {
 
 			#main > .posts > * {
 				padding: 4rem;
-				width: 50%;
+				width: 30%;
 			}
 
 			#main > .posts > article {
@@ -3874,11 +3874,11 @@ input, select, textarea {
 				}
 
 				#main > .posts > article:nth-child(2n - 1) {
-					border-left-width: 0;
+					/*border-left-width: 0;*/
 				}
 
 				#main > .posts > article:nth-child(-n + 2) {
-					border-top-width: 0;
+					/*border-top-width: 0;*/
 				}
 
 			@media screen and (max-width: 980px) {
